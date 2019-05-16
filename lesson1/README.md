@@ -1,6 +1,6 @@
 # Learning Vue 2
 
-You can run this code by:
+If you do not have a web server, you can run this code by:
 
 ```
 cd lesson1
